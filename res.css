@@ -1,0 +1,13 @@
+@media screen and (max-width: 500px){
+ 
+    #masterSongName{
+        margin-left: 193px;
+font-size: 13px;
+    }
+.songname{
+    font-size: 10px;
+}
+.timestamp{
+    font-size: 13px;
+}
+}
