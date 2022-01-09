@@ -9,7 +9,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songitem'));
 let songs = [
     {songName: "Love Nwanititi ", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Stay - Justin Bieber ", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Stay-Justin Bieber ", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Industry Baby ", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: " We Roll in ", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: " Tere Te ", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
